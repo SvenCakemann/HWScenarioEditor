@@ -6,8 +6,21 @@ Drag and drop a scenario file onto Auracomp. Then, you can open the resulting fi
 
 Drag and drop the edited scenario file onto the "compress.bat" file and it will create a new file that can be used on Cemu or on console.
 
-----------
-As of right now, this just changes out the captains present on the map. Potential values/unit placement shown in the tool has been a bit inconsistent (ie an ally might be listed under enemy, vice versa). Unit names with [Switch] in the title probably don't exist on Wii U and will cause a crash. 
+As of right now, this just changes out the captains (and their squad) present on the map. Potential values/unit placement shown in the tool has been a bit inconsistent (ie an ally might be listed under enemy, vice versa). Unit names with [Switch] in the title probably don't exist on Wii U and will cause a crash. 
+
+Yes, it will support Switch out of the box at some point. Right now if you convert those scenario files to big endian, the tool can read them fine. Just remember to put them back to little endian afterward.
+
 ----------
 
-Yes, it will support Switch at some point. Right now if you convert those scenario files to big endian, the tool can read them fine. Just remember to put them back to little endian afterward.
+Planned features include:
+Moving units to different spawn locations
+Change name of army
+Change "generic" units en masse
+Third army support
+
+----------
+
+AI usage disclaimer:
+I have a little background with programming in C++. This program was written in Python, and it pulls info from basic json files. I used ChatGPT to assist with making the Python script that powers this tool. Locating the files that need to be modded, finding Auracomp and making the batch script to compress the modded files back into Wii U's format, and finding the offsets/many of the values used in the tool was all me. ChatGPT was used in the strictest sense to put the framework of the tool together for me, which I understand poisons the project for many, but it did not "make" the whole thing.
+
+I hope others find that it doesn't take away from the research and experimenting that I did. However, if any programmer wants to fork this and make a wholly unique version, please do so.

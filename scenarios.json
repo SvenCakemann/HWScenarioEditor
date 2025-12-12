@@ -1,0 +1,114 @@
+{
+    "Armies of Ruin": {
+        "filename": "sn000.bin",
+        "description": "Defend Hyrule Castle from an army of monsters!"
+    },
+    "The Sheikah Tribesman": {
+        "filename": "sn001.bin",
+        "description": "Fight through the Eldin Caves! Who is Sheik?"
+    },
+    "The Sorceress of the Woods": {
+        "filename": "sn002.bin",
+        "description": "A mysterious blue-haired sorceress appears."
+    },
+    "The Sorceress of the Valley": {
+        "filename": "sn003.bin",
+        "description": "Confront Cia, and close the Gate of Souls!"
+    },
+    "Land of Myth": {
+        "filename": "sn004.bin",
+        "description": "Rescue Princess Ruto from... the Gorons?!"
+    },
+    "The Water Temple": {
+        "filename": "sn005.bin",
+        "description": "Enter the Water Temple and defeat the faker!"
+    },
+    "Land of Twilight": {
+        "filename": "sn006.bin",
+        "description": "Dispel twilight and fight on two fronts!"
+    },
+    "The Shadow King": {
+        "filename": "sn007.bin",
+        "description": "Storm the palace of twilight! Cia and Lana are...?"
+    },
+    "Land in the Sky": {
+        "filename": "sn008.bin",
+        "description": "Master, we must defend Skyloft from attack."
+    },
+    "Sealed Ambition": {
+        "filename": "sn009.bin",
+        "description": "Master, I detect a Gate of Souls. Proceed with closing it."
+    },
+    "The Sacred Sword": {
+        "filename": "sn010.bin",
+        "description": "Retrieve the Master Sword!"
+    },
+    "A War of Spirit": {
+        "filename": "sn011.bin",
+        "description": "Go after Cia at the Temple of Souls!"
+    },
+    "Shining Beacon": {
+        "filename": "sn012.bin",
+        "description": "Defeat Cia, once and for all."
+    },
+    "Ganondorf's Return": {
+        "filename": "sn013.bin",
+        "description": "Gather an army."
+    },
+    "March of the Demon King": {
+        "filename": "sn014.bin",
+        "description": "Let nothing stand in the way."
+    },
+    "Battle of the Triforce": {
+        "filename": "sn015.bin",
+        "description": "Claim what is yours."
+    },
+    "Enduring Resolve": {
+        "filename": "sn016.bin",
+        "description": "Hope is not lost! Defeat Zant and Girahim!"
+    },
+    "Liberation of the Triforce": {
+        "filename": "sn017.bin",
+        "description": "Destroy Ganon and save Hyrule!"
+    },
+    "The Girl in the Green Tunic": {
+        "filename": "sn018.bin",
+        "description": "Linkle's Tale - Recover the compass from Skull Kid!"
+    },
+    "Powers Collide": {
+        "filename": "sn019.bin",
+        "description": "Linkle's Tale - Monsters in the Water Temple? Leave it to the hero!"
+    },
+    "The Demon Lord's Plan": {
+        "filename": "sn020.bin",
+        "description": "Linkle's Tale - So many Imprisoned! At least they're tiny."
+    },
+    "Her True Self": {
+        "filename": "sn021.bin",
+        "description": "Linkle's Tale - Enter the palace and find Zelda!"
+    },
+    "The Other Hero": {
+        "filename": "sn022.bin",
+        "description": "Linkle's Tale - Save Hyrule Castle!"
+    },
+    "The Dragon of the Caves": {
+        "filename": "sn100.bin",
+        "description": "Cia's Tale - Time to recruit some generals..."
+    },
+    "The Invasion Begins": {
+        "filename": "sn101.bin",
+        "description": "Cia's Tale - Attack Hyrule Castle!"
+    },
+    "The Usurper King": {
+        "filename": "sn102.bin",
+        "description": "Cia's Tale - Subjugate the false king."
+    },
+    "The Demon Lord": {
+        "filename": "sn103.bin",
+        "description": "Cia's Tale - Subjugate the demon sword."
+    },
+    "Darkness Falls": {
+        "filename": "sn104.bin",
+        "description": "Cia's Tale - I am no one's puppet!"
+    }
+}

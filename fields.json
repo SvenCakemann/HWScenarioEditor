@@ -1,0 +1,1179 @@
+{
+  "shared_options": {
+    "units": {
+      "0000": "Link",
+	  "0001": "Link (Trainee)",
+	  "0002": "Link (Master Sword)",
+      "0003": "Zelda",
+      "0006": "Shiek",
+      "0009": "Impa",
+      "000C": "Ganondorf",
+      "000F": "Darunia",
+      "0012": "Ruto",
+      "0015": "Agitha",
+      "0018": "Midna",
+      "001B": "Fi",
+      "001E": "Girahim",
+      "0021": "Zant",
+      "0024": "'Tingle' (unused)",
+      "0027": "Lana",
+      "0044": "Cia",
+      "0045": "Volga",
+      "0046": "Wizzro",
+      "0047": "Twili Midna",
+      "0048": "Young Link",
+      "0049": "Tingle",
+      "004B": "Ganon",
+      "004C": "Cucco",
+      "004D": "Linkle",
+      "004E": "Skull Kid",
+      "004F": "Toon Link",
+      "0050": "Tetra",
+      "0051": "King Daphnes",
+      "0052": "Medli",
+      "0053": "Marin",
+      "0054": "Toon Zelda",
+      "0055": "Ravio",
+      "0056": "Yuga",	  
+	  "0064": "NPC Cia",
+	  "0067": "NPC Volga",
+	  "006A": "NPC Wizzro",
+	  "00CC": "King Dodongo",
+	  "00C8": "Ganon",
+	  "00E5": "Argorok",
+	  "012C": "Aeralfos",
+	  "012D": "Aeralfos (Gatekeeper)",
+	  "012E": "Aeralfos (Keep Boss)",
+	  "012F": "Aeralfos",
+	  "0130": "Aeralfos (Messenger)",
+	  "0131": "Aeralfos (Engineer)",
+	  "0132": "Aeralfos (Transport Captain)",
+	  "0133": "Dark Aeralfos",
+	  "0134": "Aeralfos (Transport Captain)",
+	  "0135": "Aeralfos",
+	  "0136": "Fiery Aeralfos",
+	  "0137": "Fiery Aeralfos (Gatekeeper)",
+	  "0138": "Fiery Aeralfos (Keep Boss)",
+	  "0139": "Fiery Aeralfos",
+	  "013A": "Fiery Aeralfos (Messenger)",
+	  "013B": "Fiery Aeralfos (Engineer)",
+	  "013C": "Fiery Aeralfos (Transport Captain)",
+	  "013D": "Dark Fiery Aeralfos",
+	  "013E": "Fiery Aeralfos (Transport Captain)",
+	  "013F": "Fiery Aeralfos",
+	  "0140": "Gibdo",
+	  "0141": "Gibdo (Gatekeeper)",
+	  "0142": "Gibdo (Keep Boss)",
+	  "0143": "Gibdo",
+	  "0144": "Gibdo (Messenger)",
+	  "0145": "Gibdo (Engineer)",
+	  "0146": "Gibdo (Transport Captain)",
+	  "0147": "Dark Gibdo",
+	  "0148": "Gibdo (Transport Captain)",
+	  "0149": "Gibdo",
+	  "014A": "Redead Knight",
+	  "014B": "Redead Knight (Gatekeeper)",
+	  "014C": "Redead Knight (Keep Boss)",
+	  "014D": "Redead Knight",
+	  "014E": "Redead Knight (Messenger)",
+	  "014F": "Redead Knight (Engineer)",
+	  "0150": "Redead Knight (Transport Captain)",
+	  "0151": "Dark Redead Knight",
+	  "0152": "Redead Knight (Transport Captain)",
+	  "0153": "Redead Knight",
+	  "0154": "Lizalfos",
+	  "0155": "Lizalfos (Gatekeeper)",
+	  "0156": "Lizalfos (Keep Boss)",
+	  "0157": "Lizalfos",
+	  "0158": "Lizalfos (Messenger)",
+	  "0159": "Lizalfos (Engineer)",
+	  "0155": "Lizalfos (Transport Captain)",
+	  "015B": "Dark Lizalfos",
+	  "015C": "Lizalfos (Transport Captain)",
+	  "015D": "Lizalfos",
+	  "015E": "Dinolfos",
+	  "015F": "Dinolfos (Gatekeeper)",
+	  "0160": "Dinolfos (Keep Boss)",
+	  "0161": "Dinolfos",
+	  "0162": "Dinolfos (Messenger)",
+	  "0163": "Dinolfos (Engineer)",
+	  "0164": "Dinolfos (Transport Captain)",
+	  "0165": "Dark Dinolfos",
+	  "0166": "Dinolfos (Transport Captain)",
+	  "0167": "Dinolfos",
+	  "0168": "Moblin",
+	  "0169": "Moblin (Gatekeeper)",
+	  "016A": "Moblin (Keep Boss)",
+	  "016B": "Moblin",
+	  "016C": "Moblin (Messenger)",
+	  "016D": "Moblin (Engineer)",
+	  "016E": "Moblin (Transport Captain)",
+	  "016F": "Dark Moblin",
+	  "0170": "Moblin (Transport Captain)",
+	  "0171": "Moblin",
+	  "0172": "Shield Moblin",
+	  "0173": "Shield Moblin (Gatekeeper)",
+	  "0174": "Shield Moblin (Keep Boss)",
+	  "0175": "Shield Moblin",
+	  "0176": "Shield Moblin (Messenger)",
+	  "0177": "Shield Moblin (Engineer)",
+	  "0178": "Shield Moblin (Transport Captain)",
+	  "0179": "Dark Shield Moblin",
+	  "017A": "Shield Moblin (Transport Captain)",
+	  "017B": "Shield Moblin",
+	  "017C": "Darknut",
+	  "017D": "Darknut (Gatekeeper)",
+	  "017E": "Darknut (Keep Boss)",
+	  "017F": "Darknut",
+	  "0180": "Darknut (Messenger)",
+	  "0181": "Darknut (Engineer)",
+	  "0182": "Darknut (Transport Captain)",
+	  "0183": "Dark Darknut",
+	  "0184": "Darknut (Transport Captain)",
+	  "0185": "Darknut",
+	  "0186": "Stalmaster",
+	  "0187": "Stalmaster (Gatekeeper)",
+	  "0188": "Stalmaster (Keep Boss)",
+	  "0189": "Stalmaster",
+	  "018A": "Stalmaster (Messenger)",
+	  "018B": "Stalmaster (Engineer)",
+	  "018C": "Stalmaster (Transport Captain)",
+	  "018D": "Dark Stalmaster",
+	  "018E": "Stalmaster (Transport Captain)",
+	  "018F": "Stalmaster",
+	  "0190": "Big Poe",
+	  "0191": "Big Poe (Gatekeeper)",
+	  "0192": "Big Poe (Keep Boss)",
+	  "0193": "Big Poe",
+	  "0194": "Big Poe (Messenger)",
+	  "0195": "Big Poe (Engineer)",
+	  "0196": "Big Poe (Transport Captain)",
+	  "0197": "Dark Big Poe",
+	  "0198": "Big Poe (Transport Captain)",
+	  "0199": "Big Poe",
+	  "019A": "Icy Big Poe",
+	  "019B": "Icy Big Poe (Gatekeeper)",
+	  "019C": "Icy Big Poe (Keep Boss)",
+	  "019D": "Icy Big Poe",
+	  "019E": "Icy Big Poe (Messenger)",
+	  "019F": "Icy Big Poe (Engineer)",
+	  "01A0": "Icy Big Poe (Transport Captain)",
+	  "01A1": "Dark Icy Big Poe",
+	  "01A2": "Icy Big Poe (Transport Captain)",
+	  "01A3": "Icy Big Poe",
+	  "01A4": "Hylian Captain",
+	  "01A5": "Hylian Captain (Gatekeeper)",
+	  "01A6": "Hylian Captain (Keep Boss)",
+	  "01A7": "Hylian Captain",
+	  "01A8": "Hylian Captain (Messenger)",
+	  "01A9": "Hylian Captain (Engineer)",
+	  "01AA": "Hylian Captain (Transport Captain)",
+	  "01AB": "Dark Hylian",
+	  "01AC": "Hylian Captain (Transport Captain)",
+	  "01AD": "Hylian Captain",
+	  "01AE": "Goron Captain",
+	  "01AF": "Goron Captain (Gatekeeper)",
+	  "01B0": "Goron Captain (Keep Boss)",
+	  "01B1": "Goron Captain",
+	  "01B2": "Goron Captain (Messenger)",
+	  "01B3": "Goron Captain (Engineer)",
+	  "01B4": "Goron Captain (Transport Captain)",
+	  "01B5": "Dark Goron",
+	  "01B6": "Goron Captain (Transport Captain)",
+	  "01B7": "Goron Captain",
+	  "01B8": "Ghost Captain",
+	  "01B9": "Ghost Captain (Gatekeeper)",
+	  "01BA": "Ghost Captain (Keep Boss)",
+	  "01BB": "Ghost Captain",
+	  "01BC": "Ghost Captain (Messenger)",
+	  "01BD": "Ghost Captain (Engineer)",
+	  "01BE": "Ghost Captain (Transport Captain)",
+	  "01BF": "Dark Ghost Captain",
+	  "01C0": "Ghost Captain (Transport Captain)",
+	  "01C1": "Ghost Captain",
+	  "01C2": "Gold Cucco",
+	  "01C3": "Gold Cucco (Gatekeeper)",
+	  "01C4": "Gold Cucco (Keep Boss)",
+	  "01C5": "Gold Cucco",
+	  "01C6": "Gold Cucco (Messenger)",
+	  "01C7": "Gold Cucco (Engineer)",
+	  "01C8": "Gold Cucco (Transport Captain)",
+	  "01C9": "Dark Cucco",
+	  "01CA": "Gold Cucco (Transport Captain)",
+	  "01CB": "Gold Cucco",
+	  "01CC": "Silver Cucco",
+	  "01CD": "Silver Cucco (Messenger)",
+	  "01CE": "Silver Cucco (Engineer)",
+	  "01CF": "Silver Cucco (Transport Captain)",
+	  "01D0": "Dark Cucco",
+	  "01D1": "Dark Cucco (Messenger)",
+	  "01D2": "Dark Cucco (Engineer)",
+	  "01D3": "Dark Cucco (Transport Captain)",
+"01F4": "[Troop] Bokoblin Sword",
+"01F5": "[Troop] Bokoblin Bow",
+"01F6": "[Troop] Bokoblin Keep Defender",
+"01F7": "[Troop] Bokoblin Summoner",
+"01F8": "[Troop] Bokoblin Captain",
+"01F9": "[Troop] Outpost Captain",
+"01FA": "[Troop] Raid Captain",
+"01FB": "[Troop] Keep Boss",
+"01FC": "[Troop] Engineer",
+"01FD": "[Troop] GateKeeper",
+"01FE": "[Troop] Summoner Captain",
+"01FF": "[Troop] Bokoblin Sword 02",
+"0200": "[Troop] Bokoblin Bow 02",
+"0201": "[Troop] Bokoblin Captain 02",
+"0202": "[Troop] Transport Captain",
+"0203": "[Troop] Messenger",
+"0204": "[Troop] None [Bokoblin]",
+"0205": "[Troop] None [Bokoblin]",
+"0206": "[Troop] None [Bokoblin]",
+"0207": "[Troop] None [Bokoblin]",
+
+
+"0208": "[Troop] Stalchild Hands",
+"0209": "[Troop] Stalchild Bone Range",
+"020A": "[Troop] Stalchild Keep Defender",
+"020B": "[Troop] Stalchild Summoner",
+"020C": "[Troop] Stalfos Captain",
+"020D": "[Troop] Outpost Captain",
+"020E": "[Troop] Raid Captain",
+"020F": "[Troop] Keep Boss",
+"0210": "[Troop] Engineer",
+"0211": "[Troop] GateKeeper",
+"0212": "[Troop] Summoner Captain",
+"0213": "[Troop] Stalchild Hands 02",
+"0214": "[Troop] Stalchild Bone Range 02",
+"0215": "[Troop] Stalfos Captain 02",
+"0216": "[Troop] Transport Captain",
+"0217": "[Troop] Messenger",
+"0218": "[Troop] Captain Keeta",
+"0219": "[Troop] None [Stalchild]",
+"021A": "[Troop] None [Stalchild]",
+"021B": "[Troop] None [Stalchild]",
+
+
+"021C": "[Troop] Bublin Club",
+"021D": "[Troop] Bublin Bow",
+"021E": "[Troop] Bublin Keep Defender",
+"021F": "[Troop] Bublin Summoner",
+"0220": "[Troop] Bublin Captain",
+"0221": "[Troop] Outpost Captain",
+"0222": "[Troop] Raid Captain",
+"0223": "[Troop] Keep Boss",
+"0224": "[Troop] Engineer",
+"0225": "[Troop] GateKeeper",
+"0226": "[Troop] Summoner Captain",
+"0227": "[Troop] Bublin Club 02",
+"0228": "[Troop] Bublin Bow 02",
+"0229": "[Troop] Bublin Captain 02",
+"022A": "[Troop] Transport Captain",
+"022B": "[Troop] Messenger",
+"022C": "[Troop] King Bublin",
+"022D": "[Troop] None [Bublin]",
+"022E": "[Troop] None [Bublin]",
+"022F": "[Troop] None [Bublin]",
+
+
+"0230": "[Troop] Hylian Soldier Sword",
+"0231": "[Troop] Hylian Soldier Bow",
+"0232": "[Troop] Hylian Soldier Keep Defender",
+"0233": "[Troop] Hylian Soldier Summoner",
+"0234": "[Troop] Hylian Soldier Captain",
+"0235": "[Troop] Outpost Captain",
+"0236": "[Troop] Raid Captain",
+"0237": "[Troop] Keep Boss",
+"0238": "[Troop] Engineer",
+"0239": "[Troop] GateKeeper",
+"023A": "[Troop] Summoner Captain",
+"023B": "[Troop] Hylian Soldier Sword 02",
+"023C": "[Troop] Hylian Soldier Bow 02",
+"023D": "[Troop] Hylian Soldier Captain 02",
+"023E": "[Troop] Transport Captain",
+"023F": "[Troop] Messenger",
+"0240": "[Troop] None [Hylian Soldier]",
+"0241": "[Troop] None [Hylian Soldier]",
+"0242": "[Troop] None [Hylian Soldier]",
+"0243": "[Troop] None [Hylian Soldier]",
+
+
+"0244": "[Troop] Goron Soldier Hands",
+"0245": "[Troop] Goron Soldier Rock Range",
+"0246": "[Troop] Goron Soldier Keep Defender",
+"0247": "[Troop] Goron Soldier Summoner",
+"0248": "[Troop] Goron Soldier Captain",
+"0249": "[Troop] Outpost Captain",
+"024A": "[Troop] Raid Captain",
+"024B": "[Troop] Keep Boss",
+"024C": "[Troop] Engineer",
+"024D": "[Troop] GateKeeper",
+"024E": "[Troop] Summoner Captain",
+"024F": "[Troop] Goron Soldier Hands 02",
+"0250": "[Troop] Goron Soldier Rock Range 02",
+"0251": "[Troop] Goron Soldier Captain 02",
+"0252": "[Troop] Transport Captain",
+"0253": "[Troop] Messenger",
+"0254": "[Troop] None [Goron Soldier]",
+"0255": "[Troop] None [Goron Soldier]",
+"0256": "[Troop] None [Goron Soldier]",
+"0257": "[Troop] None [Goron Soldier]",
+
+
+"0258": "[Troop] Ghost Soldier Sword",
+"0259": "[Troop] Ghost Soldier Bow",
+"025A": "[Troop] Ghost Soldier Keep Defender",
+"025B": "[Troop] Ghost Soldier Summoner",
+"025C": "[Troop] Ghost Soldier Captain",
+"025D": "[Troop] Outpost Captain",
+"025E": "[Troop] Raid Captain",
+"025F": "[Troop] Keep Boss",
+"0260": "[Troop] Engineer",
+"0261": "[Troop] GateKeeper",
+"0262": "[Troop] Summoner Captain",
+"0263": "[Troop] Ghost Soldier Sword 02",
+"0264": "[Troop] Ghost Soldier Bow 02",
+"0265": "[Troop] Ghost Soldier Captain 02",
+"0266": "[Troop] Transport Captain",
+"0267": "[Troop] Messenger",
+"0268": "[Troop] None [Ghost Soldier]",
+"0269": "[Troop] None [Ghost Soldier]",
+"026A": "[Troop] None [Ghost Soldier]",
+"026B": "[Troop] None [Ghost Soldier]",
+
+
+"026C": "[Troop] Cucco Sword",
+"026D": "[Troop] Cucco Bow",
+"026E": "[Troop] Cucco Keep Defender",
+"026F": "[Troop] Cucco Summoner",
+"0270": "[Troop] Cucco Captain",
+"0271": "[Troop] Outpost Captain",
+"0272": "[Troop] Raid Captain",
+"0273": "[Troop] Keep Boss",
+"0274": "[Troop] Engineer",
+"0275": "[Troop] GateKeeper",
+"0276": "[Troop] Summoner Captain",
+"0277": "[Troop] Cucco Sword 02",
+"0278": "[Troop] Cucco Bow 02",
+"0279": "[Troop] Cucco Captain 02",
+"027A": "[Troop] Transport Captain",
+"027B": "[Troop] Messenger",
+"027C": "[Troop] None [Cucco]",
+"027D": "[Troop] None [Cucco]",
+"027E": "[Troop] None [Cucco]",
+"027F": "[Troop] None [Cucco]",
+
+
+"02BC": "[Troop] Bombchu",
+"02BD": "[Troop] Deku Baba",
+"02BE": "[Troop] Manhandla Stalk 01",
+"02BF": "[Troop] Beamos 01",
+"02C0": "[Troop] Wall of Vines 01",
+"02C1": "[Troop] Cucco",
+"02C2": "[Troop] Deku Baba 02",
+"02C3": "[Troop] Beamos 02",
+"02CC": "[Troop] Manhandla Stalk 02",
+	  "0302": "[Switch] Aeralfos ",
+	  "0303": "[Switch] Fiery Aeralfos ",
+	  "0304": "[Switch] Gibdo ",
+	  "0305": "[Switch] Redead Knight ",
+	  "0306": "[Switch] Lizalfos ",
+	  "0307": "[Switch] Dinolfos ",
+	  "0308": "[Switch] Moblin ",
+	  "0309": "[Switch] Shield Moblin ",
+	  "030A": "[Switch] Darknut ",
+	  "030B": "[Switch] Stalmaster ",
+	  "030C": "[Switch] Big Poe ",
+	  "030D": "[Switch] Icy Big Poe ",
+	  "030E": "[Switch] Hylian Captain ",
+	  "030F": "[Switch] Goron Captain ",
+	  "0310": "[Switch] Ghost Captain ",
+	  "0311": "[Switch] Gold Cucco ",
+	  "0312": "[Switch] Giant (Majora's Reward Map)",
+	  "0313": "[Switch] Great Fairy (NPC)",
+	  "0322": "[Switch] Linkle",
+	  "0323": "[Switch] Skull Kid",
+	  "0324": "[Switch] Toon Link",
+	  "0325": "[Switch] Tetra",
+	  "0326": "[Switch] King Daphnes",
+	  "0327": "[Switch] Medli",
+	  "0328": "[Switch] Marin",
+	  "0329": "[Switch] Linkle (Boots)",
+	  "032A": "[Switch] Toon Zelda",
+	  "032B": "[Switch] Toon Link (Sand Wand)",
+	  "032C": "[Switch] Ravio",
+	  "032D": "[Switch] Yuga",
+	  "033D": "[Switch] Dark Linkle (Boots)",
+	  "033E": "[Switch] Dark Linkle",
+	  "033F": "[Switch] Dark Skull Kid",
+	  "0340": "[Switch] Dark Toon Link",
+	  "0341": "[Switch] Dark Tetra",
+	  "0342": "[Switch] Dark King Daphnes",	  
+	  "0343": "[Switch] Cia (No Mask)",
+	  "0344": "[Switch] Cia (No Mask & Hat)",
+	  "0345": "[Switch] Dark Medli",
+	  "0346": "[Switch] Dark Marin",
+	  "0347": "[Switch] Dark Toon Zelda",
+	  "0348": "[Switch] Dark Toon Link (Sand Wand)",
+	  "0349": "[Switch] Dark Ravio",
+	  "034A": "[Switch] Dark Yuga",
+	  "0359": "[Switch] Yuga (Link's Voice)",
+	  "035A": "[Switch] Ravio (Link's Voice)",
+	  "035B": "[Switch] Toon Link (Sand Wand, Link's Voice)",
+	  "035C": "[Switch] Toon Zelda (Link's Voice)",
+	  "035D": "[Switch] Linkle (Boots, Link's Voice)",
+	  "035E": "[Switch] Marin (Link's Voice)",
+	  "035F": "[Switch] Medli",
+	  "03A2": "[Switch] Big Blin",
+	  "03A3": "[Switch] Gatekeeper (Big Blin)",
+	  "03A4": "[Switch] Keep Boss (Big Blin)",
+	  "03A5": "[Switch] Big Blin",
+	  "03A6": "[Switch] Messenger (Big Blin)",
+	  "03A7": "[Switch] Engineer (Big Blin)",
+	  "03A8": "[Switch] Transport Captain (Big Blin)",
+	  "03A9": "[Switch] Dark Big Blin",
+	  "03AA": "[Switch] Transport Captain (Big Blin)",
+	  "03AB": "[Switch] Big Blin",
+	  "03AC": "[Switch] Stone Blin",
+	  "03AD": "[Switch] Gatekeeper (Stone Blin)",
+	  "03AE": "[Switch] Keep Boss (Stone Blin)",
+	  "03AF": "[Switch] Stone Blin",
+	  "03B0": "[Switch] Messenger (Stone Blin)",
+	  "03B1": "[Switch] Engineer (Stone Blin)",
+	  "03B2": "[Switch] Transport Captain (Stone Blin)",
+	  "03B3": "[Switch] Dark Stone Blin",
+	  "03B4": "[Switch] Transport Captain (Stone Blin)",
+	  "03B5": "[Switch] Stone Blin",
+	  "03B6": "[Switch] Brown Cucco",
+	  "03B7": "[Switch] Gatekeeper (Brown Cucco)",
+	  "03B8": "[Switch] Keep Boss (Brown Cucco)",
+	  "03B9": "[Switch] Brown Cucco",
+	  "03BA": "[Switch] Messenger (Brown Cucco)",
+	  "03BB": "[Switch] Engineer (Brown Cucco)",
+	  "03BC": "[Switch] Transport Captain (Brown Cucco)",
+	  "03BD": "[Switch] Dark Brown Cucco",
+	  "03BE": "[Switch] Transport Captain (Brown Cucco)",
+	  "03BF": "[Switch] Brown Cucco",
+	  "03C0": "[Switch] The Imprisoned (General)",
+	  "03C1": "[Switch] Boss Blin",
+	  "03C2": "[Switch] Gold Cucco",
+	  "03C3": "[Switch] Big Poe",
+	  "03C4": "[Switch] Gibdo",
+	  "03C5": "[Switch] Redead Knight",
+	  "03C6": "[Switch] Lizalfos",
+	  "03C7": "[Switch] Dinolfos",
+	  "03C8": "[Switch] Moblin",
+	  "03C9": "[Switch] Shield Moblin",
+	  "03CA": "[Switch] Darknut",
+	  "03CB": "[Switch] Stalmaster",
+	  "03CC": "[Switch] Big Poe",
+	  "03CD": "[Switch] Icy Big Poe",
+	  "03CE": "[Switch] Big Blin",
+	  "03CF": "[Switch] Stone Blin",
+	  "03DE": "[Switch] Miniblin Sword",
+	  "03DF": "[Switch] Miniblin Bow",
+	  "03E0": "[Switch] Miniblin Keep Defender",
+	  "03E1": "[Switch] Miniblin Summoner",
+	  "03E2": "[Switch] Miniblin Captain",
+	  "03E3": "[Switch] Outpost Captain",
+	  "03E4": "[Switch] Raid Captain",
+	  "03E5": "[Switch] Keep Boss",
+	  "03E6": "[Switch] Engineer",
+	  "03E7": "[Switch] Gatekeeper",
+	  "03E8": "[Switch] Summoner Captain",
+	  "03E9": "[Switch] Miniblin Sword 02",
+	  "03EA": "[Switch] Miniblin Bow 02",
+	  "03EB": "[Switch] Miniblin Captain",
+	  "03EC": "[Switch] Transport Captain",
+	  "03ED": "[Switch] Messenger",
+	  "03EE": "[Switch] None (Miniblin)",
+	  "03EF": "[Switch] None (Miniblin)",
+	  "03F0": "[Switch] None (Miniblin)",
+	  "03F1": "[Switch] None (Miniblin)",
+	  "03F2": "[Switch] Cucco Sword",
+	  "03F3": "[Switch] Cucco Bow",
+	  "03F4": "[Switch] Cucco Keep Defender",
+	  "03F5": "[Switch] Cucco Summoner",
+	  "03F6": "[Switch] Cucco Captain",
+	  "03F7": "[Switch] Outpost Captain",
+	  "03F8": "[Switch] Raid Captain",
+	  "03F9": "[Switch] Keep Boss",
+	  "03FA": "[Switch] Engineer",
+	  "03FB": "[Switch] Gatekeeper",
+	  "03FC": "[Switch] Summoner Captain",
+	  "03FD": "[Switch] Cucco Sword 02",
+	  "03FE": "[Switch] Cucco Bow 02",
+	  "03FF": "[Switch] Cucco Captain",
+	  "0400": "[Switch] Transport Captain",
+	  "0401": "[Switch] Messenger",
+	  "0402": "[Switch] None (Cucco)",
+	  "0403": "[Switch] None (Cucco)",
+	  "0404": "[Switch] None (Cucco)",
+	  "0405": "[Switch] None (Cucco)",
+	  "041A": "[Switch] Red Chuchu",
+	  "041B": "[Switch] Yellow Chuchu",
+	  "041C": "[Switch] Green Chuchu",
+	  "FFFF": "Nothing"	   
+    }
+  },
+  "Allied army": {
+    "type": "enum",
+    "offset": 0,
+    "size": 2,
+    "options": {
+      "EEEE": "Nada",
+	  "FFFF": "Nothing"	   
+    }
+  },
+  "Slot 1": {
+    "type": "enum",
+    "offset": 450,
+    "size": 2,
+	"options_ref": "units"
+  },
+  "Slot 1 squad": {
+    "type": "group",
+    "offset": 450,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+	  { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Slot 2": {
+    "type": "enum",
+    "offset": 554,
+    "size": 2,
+    "size": 2,
+	"options_ref": "units"
+  },
+  "Slot 2 squad": {
+    "type": "group",
+    "offset": 554,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+	  { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Slot 3": {
+    "type": "enum",
+    "offset": 658,
+    "size": 2,
+    "size": 2,
+	"options_ref": "units"
+  },
+  "Slot 3 squad": {
+    "type": "group",
+    "offset": 658,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+	  { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Slot 4": {
+    "type": "enum",
+    "offset": 762,
+    "size": 2,
+    "size": 2,
+	"options_ref": "units"
+  },
+  "Slot 4 squad": {
+    "type": "group",
+    "offset": 762,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+	  { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Slot 5": {
+    "type": "enum",
+    "offset": 866,
+    "size": 2,
+    "size": 2,
+	"options_ref": "units"
+  },
+  "Slot 5 squad": {
+    "type": "group",
+    "offset": 866,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+	  { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Slot 6": {
+    "type": "enum",
+    "offset": 970,
+    "size": 2,
+    "size": 2,
+	"options_ref": "units"
+  },
+  "Slot 6 squad": {
+    "type": "group",
+    "offset": 970,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+	  { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Slot 7": {
+    "type": "enum",
+    "offset": 1074,
+    "size": 2,
+    "size": 2,
+	"options_ref": "units"
+  },
+  "Slot 7 squad": {
+    "type": "group",
+    "offset": 1074,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+	  { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Slot 8": {
+    "type": "enum",
+    "offset": 1178,
+    "size": 2,
+    "size": 2,
+	"options_ref": "units"
+  },
+  "Slot 8 squad": {
+    "type": "group",
+    "offset": 1178,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+	  { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Slot 9": {
+    "type": "enum",
+    "offset": 1282,
+    "size": 2,
+    "size": 2,
+	"options_ref": "units"
+  },
+  "Slot 9 squad": {
+    "type": "group",
+    "offset": 1282,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+	  { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Slot 10": {
+    "type": "enum",
+    "offset": 1386,
+    "size": 2,
+    "size": 2,
+	"options_ref": "units"
+  },
+  "Slot 10 squad": {
+    "type": "group",
+    "offset": 1386,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+	  { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Slot 11": {
+    "type": "enum",
+    "offset": 2218,
+    "size": 2,
+	"options_ref": "units"
+  },
+  "Slot 11 squad": {
+    "type": "group",
+    "offset": 2218,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+	  { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Slot 12": {
+    "type": "enum",
+    "offset": 2322,
+    "size": 2,
+	"options_ref": "units"
+  },
+  "Slot 12 squad": {
+    "type": "group",
+    "offset": 2322,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+	  { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Slot 13": {
+    "type": "enum",
+    "offset": 12410,
+    "size": 2,
+    "size": 2,
+	"options_ref": "units"
+  },
+  "Slot 13 squad": {
+    "type": "group",
+    "offset": 12410,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+	  { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Enemy army": {
+    "type": "enum",
+    "offset": 0,
+    "size": 2,
+    "options": {
+      "EEEE": "Nada",
+	  "FFFF": "Nothing"	   
+    }
+  },
+  "Enemy Slot 0": {
+    "type": "enum",
+    "offset": 2842,
+    "size": 2,
+    "options_ref": "units"
+  },
+  "Enemy Slot 0 squad": {
+    "type": "group",
+    "offset": 2842,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+      { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Enemy Slot 1": {
+    "type": "enum",
+    "offset": 3674,
+    "size": 2,
+    "options_ref": "units"
+  },
+  "Enemy Slot 1 squad": {
+    "type": "group",
+    "offset": 3674,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+      { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Enemy Slot 2": {
+    "type": "enum",
+    "offset": 3778,
+    "size": 2,
+    "options_ref": "units"
+  },
+  "Enemy Slot 2 squad": {
+    "type": "group",
+    "offset": 3778,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+      { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Enemy Slot 3": {
+    "type": "enum",
+    "offset": 3882,
+    "size": 2,
+    "options_ref": "units"
+  },
+  "Enemy Slot 3 squad": {
+    "type": "group",
+    "offset": 3882,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+      { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Enemy Slot 4": {
+    "type": "enum",
+    "offset": 3986,
+    "size": 2,
+    "options_ref": "units"
+  },
+  "Enemy Slot 4 squad": {
+    "type": "group",
+    "offset": 3986,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+      { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Enemy Slot 5": {
+    "type": "enum",
+    "offset": 4090,
+    "size": 2,
+    "options_ref": "units"
+  },
+  "Enemy Slot 5 squad": {
+    "type": "group",
+    "offset": 4090,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+      { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Enemy Slot 6": {
+    "type": "enum",
+    "offset": 4194,
+    "size": 2,
+    "options_ref": "units"
+  },
+  "Enemy Slot 6 squad": {
+    "type": "group",
+    "offset": 4194,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+      { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Enemy Slot 7": {
+    "type": "enum",
+    "offset": 4298,
+    "size": 2,
+    "options_ref": "units"
+  },
+  "Enemy Slot 7 squad": {
+    "type": "group",
+    "offset": 4298,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+      { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Enemy Slot 8": {
+    "type": "enum",
+    "offset": 4402,
+    "size": 2,
+    "options_ref": "units"
+  },
+  "Enemy Slot 8 squad": {
+    "type": "group",
+    "offset": 4402,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+      { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Enemy Slot 9": {
+    "type": "enum",
+    "offset": 5130,
+    "size": 2,
+    "options_ref": "units"
+  },
+  "Enemy Slot 9 squad": {
+    "type": "group",
+    "offset": 5130,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+      { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Enemy Slot 10": {
+    "type": "enum",
+    "offset": 5234,
+    "size": 2,
+    "options_ref": "units"
+  },
+  "Enemy Slot 10 squad": {
+    "type": "group",
+    "offset": 5234,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+      { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Enemy Slot 11": {
+    "type": "enum",
+    "offset": 5338,
+    "size": 2,
+    "options_ref": "units"
+  },
+  "Enemy Slot 11 squad": {
+    "type": "group",
+    "offset": 5338,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+      { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Enemy Slot 12": {
+    "type": "enum",
+    "offset": 5442,
+    "size": 2,
+    "options_ref": "units"
+  },
+  "Enemy Slot 12 squad": {
+    "type": "group",
+    "offset": 5442,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+      { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Rogue army": {
+    "type": "enum",
+    "offset": 0,
+    "size": 2,
+    "options": {
+      "EEEE": "Nada",
+	  "FFFF": "Nothing"	   
+    }
+  },
+  "Rogue Slot 0": {
+    "type": "enum",
+    "offset": 5650,
+    "size": 2,
+    "options_ref": "units"	   
+  },
+  "Rogue Slot 0 squad": {
+    "type": "group",
+    "offset": 5650,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+	  { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Rogue Slot 1": {
+    "type": "enum",
+    "offset": 5754,
+    "size": 2,
+    "options_ref": "units"	   
+  },
+  "Rogue Slot 1 squad": {
+    "type": "group",
+    "offset": 5754,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+	  { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Rogue Slot 2": {
+    "type": "enum",
+    "offset": 5858,
+    "size": 2,
+    "options_ref": "units"	   
+  },
+  "Rogue Slot 2 squad": {
+    "type": "group",
+    "offset": 5858,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+	  { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Rogue Slot 3": {
+    "type": "enum",
+    "offset": 5962,
+    "size": 2,
+    "options_ref": "units"	   
+  },
+  "Rogue Slot 3 squad": {
+    "type": "group",
+    "offset": 5962,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+	  { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Rogue Slot 4": {
+    "type": "enum",
+    "offset": 6066,
+    "size": 2,
+    "options_ref": "units"	   
+  },
+  "Rogue Slot 4 squad": {
+    "type": "group",
+    "offset": 6066,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+	  { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Rogue Slot 5": {
+    "type": "enum",
+    "offset": 6170,
+    "size": 2,
+    "options_ref": "units"	   
+  },
+  "Rogue Slot 5 squad": {
+    "type": "group",
+    "offset": 6170,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+	  { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Rogue Slot 6": {
+    "type": "enum",
+    "offset": 6274,
+    "size": 2,
+    "options_ref": "units"	   
+  },
+  "Rogue Slot 6 squad": {
+    "type": "group",
+    "offset": 6274,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+	  { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Rogue Slot 7": {
+    "type": "enum",
+    "offset": 6378,
+    "size": 2,
+    "options_ref": "units"	   
+  },
+  "Rogue Slot 7 squad": {
+    "type": "group",
+    "offset": 6378,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+	  { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Rogue Slot 8": {
+    "type": "enum",
+    "offset": 6482,
+    "size": 2,
+    "options_ref": "units"	   
+  },
+  "Rogue Slot 8 squad": {
+    "type": "group",
+    "offset": 6482,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+	  { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Rogue Slot 9": {
+    "type": "enum",
+    "offset": 6586,
+    "size": 2,
+    "options_ref": "units"	   
+  },
+  "Rogue Slot 9 squad": {
+    "type": "group",
+    "offset": 6586,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+	  { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Rogue Slot 10": {
+    "type": "enum",
+    "offset": 6690,
+    "size": 2,
+    "options_ref": "units"	   
+  },
+  "Rogue Slot 10 squad": {
+    "type": "group",
+    "offset": 6690,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+	  { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Rogue Slot 11": {
+    "type": "enum",
+    "offset": 6794,
+    "size": 2,
+    "options_ref": "units"	   
+  },
+  "Rogue Slot 11 squad": {
+    "type": "group",
+    "offset": 6794,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+	  { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  },
+  "Rogue Slot 12": {
+    "type": "enum",
+    "offset": 6898,
+    "size": 2,
+    "options_ref": "units"	   
+  },
+  "Rogue Slot 12 squad": {
+    "type": "group",
+    "offset": 6898,
+    "members": [
+      { "name": "Slot 1", "type": "enum", "offset_add": 8, "size": 2, "options_ref": "units" },
+      { "name": "Slot 2", "type": "enum", "offset_add": 16, "size": 2, "options_ref": "units" },
+      { "name": "Slot 3", "type": "enum", "offset_add": 24, "size": 2, "options_ref": "units" },
+	  { "name": "Slot 4", "type": "enum", "offset_add": 32, "size": 2, "options_ref": "units" }
+    ]
+  }
+}

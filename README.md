@@ -8,3 +8,6 @@ Drag and drop the edited scenario file onto the "compress.bat" file and it will 
 
 ----------
 As of right now, this just changes out the captains present on the map. Potential values/unit placement shown in the tool has been a bit inconsistent (ie an ally might be listed under enemy, vice versa). Unit names with [Switch] in the title probably don't exist on Wii U and will cause a crash. 
+----------
+
+Yes, it will support Switch at some point. Right now if you convert those scenario files to big endian, the tool can read them fine. Just remember to put them back to little endian afterward.

@@ -73,7 +73,7 @@
     },
     "The Girl in the Green Tunic": {
         "filename": "sn018.bin",
-        "description": "Linkle's Tale - Recover the compass from Skull Kid!"
+        "description": "Linkle's Tale - Get the compass back from Skull Kid!"
     },
     "Powers Collide": {
         "filename": "sn019.bin",
@@ -92,23 +92,39 @@
         "description": "Linkle's Tale - Save Hyrule Castle!"
     },
     "The Dragon of the Caves": {
-        "filename": "sn100.bin",
+        "filename": "sn100.bin (Wii U) / sn027.bin (Switch)",
         "description": "Cia's Tale - Time to recruit some generals..."
     },
     "The Invasion Begins": {
-        "filename": "sn101.bin",
+        "filename": "sn101.bin (Wii U) / sn028.bin (Switch)",
         "description": "Cia's Tale - Attack Hyrule Castle!"
     },
     "The Usurper King": {
-        "filename": "sn102.bin",
+        "filename": "sn102.bin (Wii U) / sn029.bin (Switch)",
         "description": "Cia's Tale - Subjugate the false king."
     },
     "The Demon Lord": {
-        "filename": "sn103.bin",
+        "filename": "sn103.bin (Wii U) / sn030.bin (Switch)",
         "description": "Cia's Tale - Subjugate the demon sword."
     },
     "Darkness Falls": {
-        "filename": "sn104.bin",
+        "filename": "sn104.bin (Wii U) / sn031.bin (Switch)",
         "description": "Cia's Tale - I am no one's puppet!"
+    },
+    "A New Disturbance": {
+        "filename": "sn023.bin",
+        "description": "Wind Waker - A new land appears!"
+    },
+    "The Search for Cia": {
+        "filename": "sn024.bin",
+        "description": "Wind Waker - Cross the desert and close the Gate of Souls!"
+    },
+    "Reclaiming the Darkness": {
+        "filename": "sn025.bin",
+        "description": "Wind Waker - Rescue Cia from the darkness!"
+    },
+    "Watchers of the Triforce": {
+        "filename": "sn026.bin",
+        "description": "Wind Waker - Defeat Phantom Ganon!"
     }
 }

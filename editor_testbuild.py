@@ -18,7 +18,7 @@ from tkinter import filedialog, messagebox
 class BinaryEditor:
     def __init__(self, master):
         self.master = master
-        master.title("Hyrule Warriors Story Scenario Editor v1 - Wii U")
+        master.title("Hyrule Warriors Story Scenario Editor v1.5 - Wii U - WORK IN PROGRESS 6-22-26")
 
         script_dir = os.path.dirname(os.path.abspath(__file__))
         fields_path = os.path.join(script_dir, "fields.json")
